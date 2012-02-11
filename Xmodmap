@@ -1,0 +1,10 @@
+keycode 30 = u U Prior Prior downarrow uparrow
+keycode 40 = d D Next Next eth ETH
+keycode 43 = h H Left Left hstroke Hstroke
+keycode 44 = j J Down Down J J 
+keycode 45 = k k Up Up kra ampersand
+keycode 46 = l L Right Right lstroke Lstroke
+keycode 47 = semicolon colon U2237 U2237 U2237 U2237
+keycode 51 = backslash bar U03BC U039C U03BB U039B
+keycode 66 = Mode_switch
+
